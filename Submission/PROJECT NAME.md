@@ -3,35 +3,46 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+shravani gunvant dhote
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+shravani-dhote
 
 **Team Name:**  
-<!-- Write your team name -->
+binary brains
 
 **College/University:**  
-<!-- Write your college/university name -->
+prof ram meghe institute of technology and reserch badnera.
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+women safety alert system
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+The Women Safety Alert System is a web-based application designed to enhance women's safety by providing quick access to emergency assistance. The platform allows users to send SOS alerts, share their live location with trusted contacts, access emergency helpline numbers, and report incidents instantly. It aims to provide a secure, user-friendly, and responsive solution that helps women seek help during emergencies and promotes a safer environment through technology.
+
+Features
+Emergency SOS Alert Button
+Live Location Sharing
+Emergency Helpline Numbers
+Incident Reporting System
+User-Friendly Interface
+Responsive Design for Mobile and Desktop
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+HTML
+CSS
+JavaScript
+Firebase (Authentication & Database)
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
@@ -40,36 +51,20 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [yes ] My project is public on GitHub
+- [yes ] My repository has a proper README.md
+- [yes ] I have added setup/installation instructions
+- [yes ] I have added screenshots/demo where possible
+- [yes ] I have added a license file
+- [ yes] My project is original and built/updated during the hackathon period
 
 ---
 
-## Memori Labs Sponsor Task
 
-Please complete these before submitting:
-
-- [ ] I have starred the Memori Labs GitHub repository  
-  https://github.com/MemoriLabs/Memori
-
-- [ ] I have followed Memori Labs on LinkedIn  
-  https://www.linkedin.com/company/memorilabs/
-
-- [ ] I have followed Memori Labs on X  
-  https://x.com/memorilab
-
-- [ ] I have checked Memori Labs social links  
-  https://linktr.ee/memorilabs
-
----
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
+- [yes ] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
