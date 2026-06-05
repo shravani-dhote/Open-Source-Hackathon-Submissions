@@ -3,32 +3,34 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+shravani gunavant dhote
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
-
+shravani-dhote
 **Team Name:**  
-<!-- Write your team name -->
+Binary Brains
 
 **College/University:**  
-<!-- Write your college/university name -->
+Prof Ram Meghe College Of Institute Of Technology and Reserch Badnera.
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Women Safety Alert System
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+Women Safety Alert is a web application that helps women stay safe by providing SOS alerts, live location sharing, emergency contacts, and incident reporting features for quick emergency response.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+HTML
+CSS
+JavaScript
+Firebase (Authentication & Database)
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/elite-coders-xyz/Open-Source-Hackathon-Submissions.git
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
@@ -40,36 +42,18 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
-
----
-
-## Memori Labs Sponsor Task
-
-Please complete these before submitting:
-
-- [ ] I have starred the Memori Labs GitHub repository  
-  https://github.com/MemoriLabs/Memori
-
-- [ ] I have followed Memori Labs on LinkedIn  
-  https://www.linkedin.com/company/memorilabs/
-
-- [ ] I have followed Memori Labs on X  
-  https://x.com/memorilab
-
-- [ ] I have checked Memori Labs social links  
-  https://linktr.ee/memorilabs
+- [yes ] My project is public on GitHub
+- [yes ] My repository has a proper README.md
+- [ yes] I have added setup/installation instructions
+- [yes ] I have added screenshots/demo where possible
+- [yes ] I have added a license file
+- [yes ] My project is original and built/updated during the hackathon period
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
+- [yes ] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
